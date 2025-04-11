@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>All Articles</title>
+</head>
+<body>
+  <h1>All Articles</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="reviews.html">Reviews</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Fântânele Beliș</h2>
+    <img src="poze/belis.jpg" alt="Fantanele Belis" width="400"/>
+    <p>Situat în inima Munților Apuseni, Lacul Fântânele Beliș oferă peisaje spectaculoase și o atmosferă liniștită.</p>
+  </section>
+
+  <section>
+    <h2>Eforie Sud</h2>
+    <img src="poze/eforie.jpg" alt="Eforie Sud" width="400"/>
+    <p>Eforie Sud este o stațiune balneară liniștită, perfectă pentru relaxare la malul mării.</p>
+  </section>
+
+  <section>
+    <h2>Timișoara</h2>
+    <img src="poze/timisoara.jpg" alt="Timisoara" width="400"/>
+    <p>Timișoara, supranumită „Mica Vienă”, oferă o combinație superbă de cultură, istorie și viață urbană modernă.</p>
+  </section>
+</body>
+</html>
