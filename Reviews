@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Reviews</title>
+</head>
+<body>
+  <h1>Reviews</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="reviews.html">Reviews</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Fântânele Beliș</h2>
+    <p>Rating: ★★★★☆</p>
+    <p>"Un loc minunat pentru a scăpa de agitația orașului. Peisaje de vis!"</p>
+  </section>
+
+  <section>
+    <h2>Eforie Sud</h2>
+    <p>Rating: ★★★☆☆</p>
+    <p>"Plaja e frumoasă, dar stațiunea ar putea fi mai modernizată."</p>
+  </section>
+
+  <section>
+    <h2>Timișoara</h2>
+    <p>Rating: ★★★★★</p>
+    <p>"Un oraș plin de viață și culoare. Recomand!"</p>
+  </section>
+</body>
+</html>
